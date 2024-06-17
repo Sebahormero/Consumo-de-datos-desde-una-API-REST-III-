@@ -22,3 +22,19 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# Pokémon Guessing Game
+
+Una aplicación simple de adivinanza de Pokémon usando Vue.js y la PokéAPI.
+
+## Requisitos
+
+- Node.js y npm
+
+## Instalación
+
+1. Clona el repositorio
+2. Navega al directorio del proyecto
+3. Instala las dependencias:
+   ```bash
+   npm install
